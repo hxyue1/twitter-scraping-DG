@@ -7,4 +7,4 @@ scrape the tweets.
 
 ## Part I: Creating a scraper
 
-To be filled.
+Initially following this guide for set up:https://realpython.com/twitter-bot-python-tweepy/#hello-tweepy 
